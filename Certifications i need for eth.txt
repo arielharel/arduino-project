@@ -1,2 +1,2 @@
 cissp - cyber
-ceh
+ceh - hacking
